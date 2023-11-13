@@ -1,5 +1,5 @@
 
-![Banner_astonaut](https://github.com/JoaquinSvoboda/JoaquinSvoboda/assets/150185174/2144fa69-03b7-4f0b-8fff-49a96b4c8a85)
+![Banner_astro](https://github.com/JoaquinSvoboda/JoaquinSvoboda/assets/150185174/a8de1254-1901-4dcb-a164-ca9b2fa0708c)
 
 
 
