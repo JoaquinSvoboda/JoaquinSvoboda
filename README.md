@@ -17,8 +17,9 @@ I'm a passionate Machine Learning Engineer with specialized expertise in Python.
 #### Featured Projects
 
 - 📊 [Project 1: Diabetes] - For this project, I chose the theme of diabetes as it holds personal significance for me. My mother has been living with diabetes, and I wanted to delve into the realm of data science to explore potential patterns related to this condition.
-
-
+- 📊 [Project 2: sliding_window] - For this project, I chose to work on a sliding window and facial recognition to practice a topic that has always caught my attention.
+- 📊 [Project 3: self_drive] - For this project, I chose the topic of self-driving because I believe it is a technological advancement that will open new doors for humanity, and I wanted to learn about the foundations it relies on. I have a lot of room for improvement and the will to get better."
+  
 #### Education and Certifications
 
 - 🎓 Platzi Academy - Certification in Machine Learning Engineering.
